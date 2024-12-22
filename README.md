@@ -9,9 +9,7 @@ A FastAPI-based web service for predicting delivery outcomes (e.g., delayed or n
 
 ### Setup Instructions
 
-    Install Dependencies:
-
-pip install fastapi uvicorn pydantic joblib pandas scikit-learn
+    Install Dependencies: pip install fastapi uvicorn pydantic joblib pandas scikit-learn
 
 Run the API:
 
