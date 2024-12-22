@@ -13,7 +13,8 @@ A FastAPI-based web service for predicting delivery outcomes (e.g., delayed or n
 
 Run the API:
 
-    uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+    uvicorn app:app --host 0.0.0.0 --port 8000 --reload
+    then after running paste { http://127.0.0.1:8000/docs#/default/predict_predict_post } this on your browser
 
     Endpoints:
         GET /: Basic health check.
