@@ -55,3 +55,5 @@ Notes
 
     Ensure gradient_boosting_model.pkl and label_encoders.pkl are in the root directory.
     Categorical fields must match the values used during training.
+    
+### You can also refer to PDF file.
